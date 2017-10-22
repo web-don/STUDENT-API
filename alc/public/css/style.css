@@ -1,0 +1,16 @@
+body{
+	background-color: #0381bc; 
+	color: #fff;
+
+	}
+.maintab {
+	padding: 3% 25% 0 25%; 
+}
+.mainhead {
+	text-align: center;
+}
+.data-table table{
+	border-collapse:collapse;border:8px dotted #ddd;
+	}
+	
+	

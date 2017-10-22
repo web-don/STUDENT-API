@@ -1,0 +1,14 @@
+{
+  "name": "Godswill_Okon",
+  "description": "Simple School Info Systemm",
+  "version": "0.0.1",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "*",
+    "express": "*",
+    "express-myconnection": "*",
+    "express-validator": "*",
+    "mysql": "*"
+  }
+}

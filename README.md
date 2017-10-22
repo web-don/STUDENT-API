@@ -3,7 +3,7 @@ Basic Student Information System in Nodejs
 
 This is my ALC 2.0 Assessment Test Uisng Node.js and mySQL.
 
-#Installation
+# Installation
 Clone or download zip:
 
     cd alc
